@@ -1,7 +1,5 @@
 package main;
 
-import java.util.LinkedList;
-
 public class MyLinkedListMain {
 
     public static void main(String[] args) {
